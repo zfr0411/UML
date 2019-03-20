@@ -2,7 +2,7 @@
 项目文档目录
 ===
 * 1、[About](report/documents/About.md)  (项目概况)
-* 2、[Team profile]() (团队组建与分工)
+* 2、[Team profile](report/documents/Team profile.md) (团队组建与分工)
 * 3、[Investigation]() (项目前期调研/竞品分析)
 * 4、[Vision]() (项目愿景)
 * 5、[Product Backlog]() (产品特性库)

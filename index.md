@@ -31,7 +31,7 @@
   * 9、2 XX短视频
 * X1 [meeting-records]()
   * inception meeting (yy/mm/dd)
-* X2 [KANBAN](report/documents/KANBAN.md)
+* X2 [KANBAN](https://github.com/orgs/uml163/projects)
 * X3 [auditing-records](report/documents/auditing-records.md)
 * X4 [Tech/Work Report](report/documents/Tech/Work Report.md) 
   * 学号-title

@@ -29,7 +29,7 @@
 * 9、成品展示
   * 9、1 XX短视频
   * 9、2 XX短视频
-* X1  [meeting-records]
+* X1 [meeting-records]()
   * inception meeting (yy/mm/dd)
 * X2 [KANBAN](report/documents/KANBAN.md)
 * X3 [auditing-records](report/documents/auditing-records.md)

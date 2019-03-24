@@ -31,7 +31,7 @@
 		项目基本业务：发布任务、接收任务
 		任务种类商讨：问卷调查、拿取快递、家教、游戏代打
 		功能流程商讨：用户登录、发布（接收）任务、提交订单、完成任务、问卷调查
-![money](report/meet-recording/image/money.png)
+![money]( report/meet-recording/image/money.png)
 
 #### 四、其他事项
 * 以后开会至少提前一天通知，且每次会议至少四人参加      
